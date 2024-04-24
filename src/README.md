@@ -10,34 +10,34 @@ heroFullScreen: true
 tagline: WeChat-Article
 projects:
   - icon: project
-    name: 项目名称
-    desc: 项目详细描述
-    link: https://你的项目链接
+    name: 开源项目
+    desc: 项目简介
+    link: https://github.com/cilliandevops
 
   - icon: link
-    name: 链接名称
-    desc: 链接详细描述
-    link: https://链接地址
+    name: 个人博客
+    desc: 记录生活
+    link: https://www.cillian.website
 
   - icon: book
-    name: 书籍名称
-    desc: 书籍详细描述
-    link: https://你的书籍链接
+    name: 书籍推荐
+    desc: 让阅读成为一种习惯
+    link: https://plan.cillian.website
 
   - icon: article
-    name: 文章名称
-    desc: 文章详细描述
+    name: 文档
+    desc: 文档网站集合
     link: https://你的文章链接
 
   - icon: friend
-    name: 伙伴名称
-    desc: 伙伴详细介绍
+    name: 友链推荐
+    desc: 同行伙伴详细介绍
     link: https://你的伙伴链接
 
-  - icon: https://theme-hope-assets.vuejs.press/logo.svg
-    name: 自定义项目
-    desc: 自定义详细介绍
-    link: https://你的自定义链接
+  - icon: computer
+    name: 技术交流
+    desc: 欢迎讨论
+    link: https://www.cillian.website
 
 footer: 生如夏花之绚烂，死如秋叶之静美
 ---
