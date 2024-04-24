@@ -7,7 +7,7 @@ title: 主页
 heroText: 希里安
 bgImage: assets/images/bg1.png
 heroFullScreen: true
-tagline: WeChat-Article
+tagline: Article
 projects:
   - icon: project
     name: 开源项目
@@ -27,12 +27,12 @@ projects:
   - icon: article
     name: 文档
     desc: 文档网站集合
-    link: https://你的文章链接
+    link: https://docs.cillian.website
 
   - icon: friend
     name: 友链推荐
     desc: 同行伙伴详细介绍
-    link: https://你的伙伴链接
+    link: https://www.cillian.website
 
   - icon: computer
     name: 技术交流
